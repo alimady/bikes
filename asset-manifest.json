@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/github.io/bikes/static/css/main.4a641852.css",
-    "main.js": "/github.io/bikes/static/js/main.cac00ca3.js",
+    "main.js": "/github.io/bikes/static/js/main.9a79b015.js",
     "static/js/453.7df70bcf.chunk.js": "/github.io/bikes/static/js/453.7df70bcf.chunk.js",
     "static/media/police-badge.svg": "/github.io/bikes/static/media/police-badge.804071d50deee20b4c667e79b813e27f.svg",
     "index.html": "/github.io/bikes/index.html",
     "main.4a641852.css.map": "/github.io/bikes/static/css/main.4a641852.css.map",
-    "main.cac00ca3.js.map": "/github.io/bikes/static/js/main.cac00ca3.js.map",
+    "main.9a79b015.js.map": "/github.io/bikes/static/js/main.9a79b015.js.map",
     "453.7df70bcf.chunk.js.map": "/github.io/bikes/static/js/453.7df70bcf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a641852.css",
-    "static/js/main.cac00ca3.js"
+    "static/js/main.9a79b015.js"
   ]
 }
